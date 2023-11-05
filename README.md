@@ -7,3 +7,6 @@ contractar-lo per una feina o no. Les tècniques més important que he anat apra
 manera de descobrir-la és només provant-ho de fer-ho.
 
 Un factor important a tenir en compte es el tema visual, hem de combinar bé els color de lletra i de fons i sobretot com ajustar objectes importats com imatges.
+
+
+LINK FIGMA: https://www.figma.com/file/OPrHHLXk2afMCNHLD55WPY/Untitled?type=design&mode=design&t=SmwnOFRSOdASHNFu-0
